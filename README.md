@@ -17,7 +17,6 @@ El proyecto se ha desarrollado siguiendo un enfoque inspirado en la estructura y
 - **PHP**: Lenguaje principal para la lógica de negocio y la gestión de vistas/controladores.
 - **MySQL**: Sistema de gestión de bases de datos.
 - **HTML, CSS, JavaScript**: Para el diseño e interactividad de la interfaz de usuario. JavaScript se utiliza para mejorar la experiencia del usuario en elementos específicos de la aplicación.
-- **Bootstrap**: Framework CSS para estilización.
 - **Patrón MVC**: Arquitectura del proyecto.
 - **Patrón Repositorio**: Abstracción de operaciones de base de datos.
 
